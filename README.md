@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HoesenG
 - 👀 I’m interested in sleeping
-- 🌱 I’m currently learning to walk
+- 🌱 I’m currently learning to 
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me houxuanguo2024@u.northwestern.edu
+- 📫 How to reach me alang@u.northwestern.edu
 
 <!---
 HoesenG/HoesenG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
