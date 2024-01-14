@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @HoesenG
-- 👀 I’m interested in sleeping
-- 🌱 I’m currently learning to 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently a Ph.D. student at Northwestern University
 - 📫 How to reach me alang@u.northwestern.edu
 
 <!---
